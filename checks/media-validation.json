@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "film_duration_seconds": 18.0,
+  "streams": [
+    "audio",
+    "video"
+  ],
+  "images": "decoded and dimensions checked",
+  "audio": "preview and film decoded with ffmpeg",
+  "captions": "single cue covers 0 to 18 seconds",
+  "disclosure": "On-screen for the entire animated film",
+  "limitations": "Automated checks only; no human listening or visual review.",
+  "motion": "Two frames differ; animated score events and moving artwork"
+}

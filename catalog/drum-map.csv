@@ -1,0 +1,6 @@
+midi_pitch,name,purpose
+36,Kick,low rhythmic anchor
+38,Snare,short answer
+39,Clap,accent answer
+42,Closed hi-hat,grid detail
+46,Open hi-hat,transition marker

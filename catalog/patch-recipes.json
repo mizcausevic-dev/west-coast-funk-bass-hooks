@@ -1,0 +1,62 @@
+{
+  "renderer": "release-simple-synth 1.0.0",
+  "midi_policy": "No program changes, controllers, pitch bends, keyswitches, SysEx or sampled audio are encoded in the MIDI.",
+  "gm_fallback": "Mappings are not encoded; a generic player will substitute its own sounds.",
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "description": "Selective harmonic cells derived from: Editable synth-oriented MIDI parts, low bass and mapped programmed drums.",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "description": "Monophonic low-register anchor",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "description": "Monophonic principal melody",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "description": "Selective answering voice",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "description": "Selective two-note upper texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "description": "Original note-mapped percussion",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "gain_stages": {
+    "role_gain_before_velocity": {
+      "chord_pulse": 0.045,
+      "sub_bass": 0.11,
+      "principal_motif": 0.055,
+      "vocal_like_synth": 0.042,
+      "counter_texture": 0.03,
+      "drums": 0.1
+    },
+    "velocity_scaling": "velocity / 127",
+    "sum_processing": "clamped to +/-0.95 before PCM encoding",
+    "loudness_claim": "none"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:13.097876+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z5001-west-coast-funk-bass-hooks-opening/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "d9fb3374ee77435e6d67d1a647edcea94a851556f1b755702f7b11a3a4ea794f",
+      "errors": []
+    },
+    {
+      "path": "midi/z5001-west-coast-funk-bass-hooks-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "4d22f7e72dc89637ef8e73c8b9703fd998dea5f83522e8e354235c0b4670268c",
+      "errors": []
+    },
+    {
+      "path": "midi/z5001-west-coast-funk-bass-hooks-opening/drums.mid",
+      "bytes": 2674,
+      "sha256": "bc7d2d65e2f7016ab831235359a8d212464c64cf426af04c84c4f91bb2647537",
+      "errors": []
+    },
+    {
+      "path": "midi/z5001-west-coast-funk-bass-hooks-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "4600c52e3e249d1bac2249004ff630b21bc5281f5bb24e40146ef027b1963146",
+      "errors": []
+    },
+    {
+      "path": "midi/z5001-west-coast-funk-bass-hooks-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "b3eca0d2d2920428573920f4b1e58fbb5439777f1ea6ad0e927199fd660b96b0",
+      "errors": []
+    },
+    {
+      "path": "midi/z5001-west-coast-funk-bass-hooks-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2a438bd469c87b85b4250b3974b594fbcbee5ed0c15ed91bc3013000885d5a7b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5001-west-coast-funk-bass-hooks-opening/z5001-west-coast-funk-bass-hooks-opening-combined.mid",
+      "bytes": 5688,
+      "sha256": "5a24238dea49208b0ad8de51def4d6572efb051723610df9381a97741d2dfce0",
+      "errors": []
+    },
+    {
+      "path": "midi/z5002-west-coast-funk-bass-hooks-variation/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "ed1b2994f5623f3faefc3623ffb055b82970ec7e7a648bc5d6b72caef72abea3",
+      "errors": []
+    },
+    {
+      "path": "midi/z5002-west-coast-funk-bass-hooks-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "e73bd86ff8785e2ee5b8f2aff794b7c0ad019f4dbc0e082ee3ada5a080e4e893",
+      "errors": []
+    },
+    {
+      "path": "midi/z5002-west-coast-funk-bass-hooks-variation/drums.mid",
+      "bytes": 2674,
+      "sha256": "bc7d2d65e2f7016ab831235359a8d212464c64cf426af04c84c4f91bb2647537",
+      "errors": []
+    },
+    {
+      "path": "midi/z5002-west-coast-funk-bass-hooks-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "e794de9b9c43d67cf0f23c709e4fa43438342bdc52786e1f4945633c0f1d0731",
+      "errors": []
+    },
+    {
+      "path": "midi/z5002-west-coast-funk-bass-hooks-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "6307846247c9c4e997f7c69de55273ba2571440ad49eb24e2897651c34f165fb",
+      "errors": []
+    },
+    {
+      "path": "midi/z5002-west-coast-funk-bass-hooks-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "8407d4321528b2feb4cfebdadfbadfb87ddf00a440b2ae0a79e5ea5c4a63d011",
+      "errors": []
+    },
+    {
+      "path": "midi/z5002-west-coast-funk-bass-hooks-variation/z5002-west-coast-funk-bass-hooks-variation-combined.mid",
+      "bytes": 5688,
+      "sha256": "2b9b0f58f7bea6b52a0d9eb6e1b8418d413102cbbfedc853b25a6a0f9c0d89e7",
+      "errors": []
+    },
+    {
+      "path": "midi/z5003-west-coast-funk-bass-hooks-contrast/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "cb49b40f651cbd20196448e93923378bd6f240d7cc2e3280ead128bcd32bbbb0",
+      "errors": []
+    },
+    {
+      "path": "midi/z5003-west-coast-funk-bass-hooks-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "fec4a61faf898e5b73fc25644acfaed91e965b09eb5c78b22d1aa69636eee80d",
+      "errors": []
+    },
+    {
+      "path": "midi/z5003-west-coast-funk-bass-hooks-contrast/drums.mid",
+      "bytes": 2674,
+      "sha256": "bc7d2d65e2f7016ab831235359a8d212464c64cf426af04c84c4f91bb2647537",
+      "errors": []
+    },
+    {
+      "path": "midi/z5003-west-coast-funk-bass-hooks-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "ef7ecec0776930e469e4018b3ff0ceded7f033782be40c3dbbad474480bee46a",
+      "errors": []
+    },
+    {
+      "path": "midi/z5003-west-coast-funk-bass-hooks-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "b3242a603441ffcadf8aeca805ff6ecd6e5092a578fdcc89399f7871de6c88d7",
+      "errors": []
+    },
+    {
+      "path": "midi/z5003-west-coast-funk-bass-hooks-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "70697bc97cdd14f321b89422a93035685daa9cbc518858eaa23d5c014f107d06",
+      "errors": []
+    },
+    {
+      "path": "midi/z5003-west-coast-funk-bass-hooks-contrast/z5003-west-coast-funk-bass-hooks-contrast-combined.mid",
+      "bytes": 5656,
+      "sha256": "404eedd3da252bccb20eb62c9951eceb39344e385a4386f1c53a1eb244878ffb",
+      "errors": []
+    },
+    {
+      "path": "midi/z5004-west-coast-funk-bass-hooks-return/chord_pulse.mid",
+      "bytes": 1237,
+      "sha256": "4f95707e4bea931d124ba24f56380ae48b57a8335c2d398d220066ccb9d44ca7",
+      "errors": []
+    },
+    {
+      "path": "midi/z5004-west-coast-funk-bass-hooks-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "bf78188767a446a5f29bce8ba8fa7d3c31ffced8447490804358ef5cc4eeef9b",
+      "errors": []
+    },
+    {
+      "path": "midi/z5004-west-coast-funk-bass-hooks-return/drums.mid",
+      "bytes": 2674,
+      "sha256": "bc7d2d65e2f7016ab831235359a8d212464c64cf426af04c84c4f91bb2647537",
+      "errors": []
+    },
+    {
+      "path": "midi/z5004-west-coast-funk-bass-hooks-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "8e4a8bfad16eeb72292bda21a62e1a5ed3981a2acf0133bda72d021393be2644",
+      "errors": []
+    },
+    {
+      "path": "midi/z5004-west-coast-funk-bass-hooks-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "91bc1939decef46069d7725b1dc4166aab54361ce61ecb888cfc526645eccb21",
+      "errors": []
+    },
+    {
+      "path": "midi/z5004-west-coast-funk-bass-hooks-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "51785ba8677dd3accafdcc2a4b9ec77bc0a242a702126a751fb85902906c93c8",
+      "errors": []
+    },
+    {
+      "path": "midi/z5004-west-coast-funk-bass-hooks-return/z5004-west-coast-funk-bass-hooks-return-combined.mid",
+      "bytes": 5656,
+      "sha256": "ca48098c1304a581da0185fd040dfaa56e1067628eb3faaad5127de89a368e54",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "generator_version": "release-train-1.0.0",
+  "pack": "west-coast-funk-bass-hooks",
+  "source_builder_sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c",
+  "commands": [
+    "python tools/build_release.py --pack west-coast-funk-bass-hooks",
+    "python tools/validate_release.py"
+  ],
+  "run_time_utc": "2026-11-05T19:40:48.280518+00:00",
+  "python": "3.14.0"
+}

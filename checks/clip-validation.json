@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "files_checked": 16,
+  "checks": [
+    "Reopened each MIDI file",
+    "Format 0, 480 PPQ, four-bar end tick",
+    "Paired positive-duration notes",
+    "Nonempty note events",
+    "SHA-256"
+  ],
+  "limitations": [
+    "Technical validation does not establish listening quality."
+  ]
+}

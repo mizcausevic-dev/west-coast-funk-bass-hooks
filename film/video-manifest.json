@@ -1,0 +1,26 @@
+{
+  "title": "West Coast Funk Bass Hooks",
+  "study": "z5001",
+  "bpm": 88,
+  "source_audio": "preview/west-coast-funk-bass-hooks-simple-synth-preview.mp3",
+  "source_audio_sha256": "a791a7f5b1b71d9b42f3e4dcb248a75eea5d8673dbb134022fbe64fb45b926bd",
+  "source_midi": "midi/z5001-west-coast-funk-bass-hooks-opening/z5001-west-coast-funk-bass-hooks-opening-combined.mid",
+  "source_midi_sha256": "5a24238dea49208b0ad8de51def4d6572efb051723610df9381a97741d2dfce0",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "b8be5c9359b8e6888b52c8c2220f3260870b1772a4ec5dab4b68cc7091753a45",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "8885420e1522de232492099aa96f20f9717e7ce23cb5f311a58ef0862fad0813",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "1ad086da0070cd52abf10633231f78b303b0b9af66ded88ed6b62a18e75806c9",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

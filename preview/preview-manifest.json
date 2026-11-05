@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/west-coast-funk-bass-hooks-simple-synth-preview.mp3",
+  "preview_sha256": "a791a7f5b1b71d9b42f3e4dcb248a75eea5d8673dbb134022fbe64fb45b926bd",
+  "source_midi_path": "midi/z5001-west-coast-funk-bass-hooks-opening/z5001-west-coast-funk-bass-hooks-opening-combined.mid",
+  "source_midi_sha256": "5a24238dea49208b0ad8de51def4d6572efb051723610df9381a97741d2dfce0",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z5001",
+    "start_seconds": 0,
+    "end_seconds": 87.273
+  },
+  "measurement": {
+    "sample_peak": 0.143686,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

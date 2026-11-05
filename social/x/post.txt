@@ -1,0 +1,3 @@
+DRAFT: West Coast Funk Bass Hooks Studies is a four-study original MIDI release at 88 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 149 characters using Python len

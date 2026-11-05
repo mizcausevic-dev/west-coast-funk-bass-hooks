@@ -1,0 +1,84 @@
+{
+  "pack_identifier": "west-coast-funk-bass-hooks",
+  "display_name": "West Coast Funk Bass Hooks Studies",
+  "brief_name": "West Coast Funk Bass Hooks",
+  "creative_intention": "Original west coast funk bass hooks ideas with coordinated melodic and harmonic parts.",
+  "rhythmic_direction": "A composed rhythmic cell develops through introduction, statement, contrast and return.",
+  "palette": "Editable synth-oriented MIDI parts, low bass and mapped programmed drums.",
+  "guardrail": "Original symbolic studies; genre labels are production directions, not cultural authority.",
+  "generator_version": "release-train-1.0.0",
+  "reproducible_command": "python tools/build_release.py --pack west-coast-funk-bass-hooks",
+  "actual_tempo_bpm": 88,
+  "meter": "4/4",
+  "ppq": 480,
+  "end_tick": 61440,
+  "roles": [
+    {
+      "role": "chord_pulse",
+      "wire_channel": 0,
+      "user_facing_channel": 1,
+      "polyphony_cap": 3
+    },
+    {
+      "role": "sub_bass",
+      "wire_channel": 1,
+      "user_facing_channel": 2,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "principal_motif",
+      "wire_channel": 2,
+      "user_facing_channel": 3,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "vocal_like_synth",
+      "wire_channel": 3,
+      "user_facing_channel": 4,
+      "polyphony_cap": 1
+    },
+    {
+      "role": "counter_texture",
+      "wire_channel": 4,
+      "user_facing_channel": 5,
+      "polyphony_cap": 2
+    },
+    {
+      "role": "drums",
+      "wire_channel": 9,
+      "user_facing_channel": 10,
+      "polyphony_cap": 4
+    }
+  ],
+  "studies": [
+    {
+      "id": "z5001",
+      "title": "West Coast Funk Bass Hooks Opening",
+      "tonic": "D",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "z5002",
+      "title": "West Coast Funk Bass Hooks Variation",
+      "tonic": "F",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "z5003",
+      "title": "West Coast Funk Bass Hooks Contrast",
+      "tonic": "G#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    },
+    {
+      "id": "z5004",
+      "title": "West Coast Funk Bass Hooks Return",
+      "tonic": "D#",
+      "pitch_collection": "pack-local equal-tempered pitch collection"
+    }
+  ],
+  "limitations": [
+    "Original symbolic material; no samples.",
+    "Automated validation is technical evidence, not copyright clearance.",
+    "The listening file is a simple-synthesis preview, not a master."
+  ]
+}
