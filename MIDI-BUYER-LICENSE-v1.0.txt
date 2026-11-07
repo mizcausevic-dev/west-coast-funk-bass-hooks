@@ -1,0 +1,29 @@
+MIDI BUYER LICENSE, VERSION 1.0
+Issued November 6, 2026 by Miz Causevic (mizcausevic-dev)
+
+This license applies to the MIDI note data included in the pack supplied with
+these terms. The publisher grants the purchaser a worldwide, perpetual,
+nonexclusive license to use and adapt that MIDI in musical works and
+productions, including commercial releases and client work. No additional
+fee is required for the licensed MIDI use.
+
+You may distribute recordings and completed works made with the MIDI. You may
+provide the MIDI to collaborators and service providers as needed to work on
+your project. They do not receive a separate right to redistribute the pack.
+
+You may not redistribute, sell, sublicense, share, or offer the MIDI files or
+substantially unchanged MIDI as a standalone download, sound library, sample
+pack, template library, or competing product.
+
+This is a nonexclusive license. It does not give you exclusive ownership of
+the underlying MIDI or stop other licensees from using it. Do not assert
+exclusive rights in an unmodified pack element through automated fingerprinting
+or Content ID. Claims over your separately created finished works must respect
+other users of the same nonexclusive material and applicable platform rules.
+
+Cover art, product names, videos, demo recordings, trademarks, and third-party
+instruments are excluded unless their own terms expressly say otherwise. MIDI
+is note data; it is not an instrument or a sample library. Ordinary songwriting,
+publishing, performing-rights, platform, and collaborator obligations remain
+separate. Purchases and refunds are governed by the actual checkout and
+applicable law.

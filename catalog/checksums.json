@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/west-coast-funk-bass-hooks-midi.zip",
-      "bytes": 31596,
-      "sha256": "a73a8c3be103c06d38c4a9154e3b6e52faa9e09c604c3ff0d7799b7e15dce050"
+      "bytes": 32583,
+      "sha256": "8485c18f571b80baf770c71fbfe1b53486a7658b0285fd84bbee687ac32637ea"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10066,
-      "sha256": "43b72ae8e7eeb5563173d9bd8df2430dd8828080348d3d9897920d12ae1c65d3"
+      "bytes": 10256,
+      "sha256": "5596d78d11cac776fcb62e73117a29e0a5f4d734656cd197535dfff5243e32b0"
     },
     {
       "path": "midi/z5001-west-coast-funk-bass-hooks-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "ca48098c1304a581da0185fd040dfaa56e1067628eb3faaad5127de89a368e54"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1188,
       "sha256": "bfeda92418575bb6b31c3fa4a5d82088f5961c5db5f90dc362cc88ee04ca864e"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4005,
-      "sha256": "6ab8675bcba579e5815237779a8f7a4303c956c8b938f44ae26eb0c439d07f26"
+      "bytes": 4120,
+      "sha256": "c2510749ac79da856a92d72c2e98c71c791f26b5ea87ca0e587de69caad99fdc"
     },
     {
       "path": "social/instagram/caption.txt",
